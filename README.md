@@ -39,6 +39,14 @@ use this command, you need to first add a package that implements end-to-end
 testing capabilities.
 
 
+## Deploying
+
+To deploy the application to the github pages the `angular-cli-ghpages` is use
+like so:
+```
+ng deploy --base-href=/fcc-viewer/
+```
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the
