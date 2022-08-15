@@ -2,10 +2,10 @@ import { Component,
          OnInit } from '@angular/core';
 import { EventDisplayService } from 'phoenix-ui-components';
 import { Configuration,
-         PhoenixLoader,
          PresetView,
          ClippingSetting,
          PhoenixMenuNode } from 'phoenix-event-display';
+import { Edm4hepJsonLoader } from './edm4hep-json-loader';
 
 @Component({
   selector: 'app-fcc',
@@ -20,9 +20,11 @@ export class FccComponent implements OnInit {
   constructor(private eventDisplay: EventDisplayService) { }
 
   ngOnInit(): void {
+    const edm4hepJsonLoader = new Edm4hepJsonLoader();
     // Create the event display configuration
     const configuration: Configuration = {
-      eventDataLoader: new PhoenixLoader(),
+      // eventDataLoader: edm4hepJsonLoader,
+      eventDataLoader: edm4hepJsonLoader,
       presetViews: [
         // simple preset views, looking at point 0,0,0 and with no clipping
         new PresetView('Left View', [0, 0, -12000], [0, 0, 0], 'left-cube'),
@@ -35,10 +37,10 @@ export class FccComponent implements OnInit {
       defaultView: [1000, 0, 1000, 0, 0 ,0],
       phoenixMenuRoot: this.phoenixMenuRoot,
       // Event data to load by default
-      defaultEventFile: {
-        eventFile: 'assets/events/fccee-lar-ecal.json',
-        eventType: 'json'
-      },
+      // defaultEventFile: {
+      //   eventFile: 'assets/events/fccee-lar-ecal.json',
+      //   eventType: 'json'
+      // },
     }
 
     // Initialize the event display
@@ -47,6 +49,13 @@ export class FccComponent implements OnInit {
     // Load detector geometry (assuming the file exists in the `src/assets` directory of the app)
     this.eventDisplay.loadGLTFGeometry('assets/detectors/fccee-lar-ecal.gltf',
                                        'Detector');
-  }
 
+    // Load default EDM4hep JSON event data
+    fetch('assets/events/events.json')
+      .then((res) => res.text())
+      .then((edm4hepEventData) => {
+        const eventData = edm4hepJsonLoader.getEventData(edm4hepEventData);
+        this.eventDisplay.buildEventDataFromJSON(eventData);
+      });
+  }
 }

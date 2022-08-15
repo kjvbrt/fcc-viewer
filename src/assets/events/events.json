@@ -1,0 +1,512 @@
+{
+    "Event 0": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.1580110788345337,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.7515270709991455,
+                    "y": -0.6597022414207458,
+                    "z": 0.17967213690280914
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 1": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.1348847150802612,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": -0.8691834807395935,
+                    "y": -0.4944896697998047,
+                    "z": -0.6137422919273376
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 10": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.0375958681106567,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.29296278953552246,
+                    "y": -0.9561238288879395,
+                    "z": -0.21435363590717316
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 11": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 0.9862914681434631,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.9694318771362305,
+                    "y": 0.24536053836345673,
+                    "z": -0.7188326716423035
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 12": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.0625604391098022,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": -0.7693011164665222,
+                    "y": -0.6388863921165466,
+                    "z": -0.7450088858604431
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 13": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.2530591487884521,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.3923766613006592,
+                    "y": -0.9198046326637268,
+                    "z": 0.5819037556648254
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 14": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.1745301485061646,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": -0.7520024180412292,
+                    "y": 0.6591603755950928,
+                    "z": -0.5893164277076721
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 2": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.1079370975494385,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.9891952276229858,
+                    "y": 0.14660441875457764,
+                    "z": -0.7112765312194824
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 3": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 0.9764016270637512,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.8667418360710144,
+                    "y": -0.4987570345401764,
+                    "z": -0.5563856959342957
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 4": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 0.9145424962043762,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": -0.9419524073600769,
+                    "y": 0.33574649691581726,
+                    "z": 0.7173344492912292
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 5": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.1950855255126953,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": -0.770763635635376,
+                    "y": -0.6371211409568787,
+                    "z": -0.4229765236377716
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 6": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.0316411256790161,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.760877251625061,
+                    "y": -0.6488958597183228,
+                    "z": -0.8125841021537781
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 7": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.138360619544983,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": 0.11493648588657379,
+                    "y": 0.9933728575706482,
+                    "z": -0.12949633598327637
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 8": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.1161870956420898,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": -0.5449191331863403,
+                    "y": 0.8384885787963867,
+                    "z": -0.6126290559768677
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    },
+    "Event 9": {
+        "calo_clusters": [
+            {
+                "clusters": [],
+                "directionError": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "energy": 1.2232544422149658,
+                "energyError": 0.0,
+                "hits": [],
+                "iTheta": 0.0,
+                "particleIDs": [],
+                "phi": 0.0,
+                "position": {
+                    "x": -0.8458132743835449,
+                    "y": 0.5334790349006653,
+                    "z": 0.8109308481216431
+                },
+                "positionError": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "shapeParameters": [],
+                "subdetectorEnergies": [],
+                "type": 0
+            }
+        ]
+    }
+}
